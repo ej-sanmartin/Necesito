@@ -19,18 +19,20 @@ App Demonstration
 ---------------
 
 
-LoginActivity.java/ login_activity.xml: Login Screen, when you first open the app
+1. LoginActivity.java/ login_activity.xml: Login Screen, when you first open the app
 
 ![Login Screenshot](img/Login_Activity.png)
 
 
-UserInfo.java/ user_info.xml: After signing in, submitting details to put into your
+2. UserInfo.java/ user_info.xml: After signing in, submitting details to put into your
 
 own profile and possibly into a post
+
 ![User Info Screenshot](img/User_Info_Activity.png)
 
 
 A clickable list of all the selectable goods and services that could be bartered
+
 ![Main List Screenshot](img/Main_List_Activity.png)
 
 
