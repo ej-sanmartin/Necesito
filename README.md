@@ -46,3 +46,8 @@ on what the original poster wants, approximate distance away from the user looki
 and their user score
 
 ![Sub List Screenshot](img/Sub_List_Activity.png)
+
+
+Contributers
+---------------
+Edgar Jr San Martin
