@@ -25,7 +25,7 @@ App Demonstration
 
 
 
-2. UserInfo.java/ user_info.xml: After signing in, submitting details to put into your
+2. UserInfo.java/ profile_setup.xml: After signing in, submitting details to put into your
 
 own profile and possibly into a post
 
