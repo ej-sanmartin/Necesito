@@ -24,6 +24,7 @@ App Demonstration
 ![Login Screenshot](img/Login_Activity.png)
 
 
+
 2. UserInfo.java/ user_info.xml: After signing in, submitting details to put into your
 
 own profile and possibly into a post
@@ -31,12 +32,14 @@ own profile and possibly into a post
 ![User Info Screenshot](img/User_Info_Activity.png)
 
 
-A clickable list of all the selectable goods and services that could be bartered
+
+3. A clickable list of all the selectable goods and services that could be bartered
 
 ![Main List Screenshot](img/Main_List_Activity.png)
 
 
-The list of all the posts for the items of a particular good and service. Includes data
+
+4. The list of all the posts for the items of a particular good and service. Includes data
 
 on what the original poster wants, approximate distance away from the user looking at the post,
 
