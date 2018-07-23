@@ -33,13 +33,13 @@ own profile and possibly into a post
 
 
 
-3. A clickable list of all the selectable goods and services that could be bartered
+3. MainActivity.java/ main_activity.xml: A clickable list of all the selectable goods and services that could be bartered
 
 ![Main List Screenshot](img/Main_List_Activity.png)
 
 
 
-4. The list of all the posts for the items of a particular good and service. Includes data
+4. post_item.xml/ post_item_list.xml: The list of all the posts for the items of a particular good and service. Includes data
 
 on what the original poster wants, approximate distance away from the user looking at the post,
 
