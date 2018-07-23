@@ -20,6 +20,7 @@ App Demonstration
 
 
 Login Screen, when you first open the app
+
 ![Login Screenshot](img/Login_Activity.png)
 
 
