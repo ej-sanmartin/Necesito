@@ -50,4 +50,4 @@ and their user score
 
 Contributers
 ---------------
-Edgar Jr San Martin
+Edgar Jr San Martin - Developer
