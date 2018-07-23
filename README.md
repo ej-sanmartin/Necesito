@@ -41,4 +41,5 @@ The list of all the posts for the items of a particular good and service. Includ
 on what the original poster wants, approximate distance away from the user looking at the post,
 
 and their user score
+
 ![Sub List Screenshot](img/Sub_List_Activity.png)
