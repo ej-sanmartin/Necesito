@@ -33,6 +33,10 @@ a user has already signed in so upon re-rentry to the app they do not have to lo
 
 11. Add an option for how urgent these items are needed in a post.
 
+12. Add some styling to the app, not too much as the app must be a small size to accomodate for older Android phones. Also, create an app icon.
+
+13. Replace the "email" EditView in the login activity with one that takes in a whatsapp number, as that is the primary means of electronic communictation used in Venezuela.
+
 
 Getting Started
 ---------------
